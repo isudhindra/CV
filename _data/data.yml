@@ -20,7 +20,7 @@ sidebar:
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  twitter: 
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,33 +36,35 @@ sidebar:
     - idiom: Telugi
       level: Native
 
-  interests:
-    - item: 
+  Automation Tools Expert In:
+    - item: Cypress
       link:
 
-    - item: 
+    - item: WebDriverIO
       link:
 
-    - item: 
+    - item: Selenium
+      link:
+
+    - item: Selenium grid
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-   14+ years of experience in various Automation Testing tools: Cypress, web driver IO, Selenium, Selenium Grid, QTP / UFT, Cyara (IVR automation) and Appium.
-
-	Excellent experience in designing and creating automation frameworks using different test automation tools from scratch.
-	Tremendous automation experience in API Automation testing using different test automation tools.
-	Phenomenal experience of implementing complex functional and non-functional test automation using Agile automation techniques and tools
-	Possess broad awareness of testing approaches, practices, and techniques to help design and deliver the overall testing methodology.
-	Immense experience in working and implementing Agile (SCRUM/KANBAN), TDD, BDD, ATDD methodologies.
-	Lead QA process and test automation for various digital transformation projects.
-	Good hands-on experience with Jmeter tool for performance testing.
-	Lead and implemented continuous integration and delivery (CI/CD) for the various projects
-	Mentoring delivery team members in automated building, testing and integration practise.
-	Extensive experience in creating Test Plans, Test Strategy, Test Metrics, Test Completion, and other test process documents.
-	Lead/Managed Offshore and Onshore teams for delivering test automation projects around 20 members.
-	Provided refined solutions for complex applications/requirements using different test processes and automation tools.
+    14+ years of experience in various Automation Testing tools: Cypress, web driver IO, Selenium, Selenium Grid, QTP / UFT, Cyara (IVR automation) and Appium.
+    Excellent experience in designing and creating automation frameworks using different test automation tools from scratch.
+    Tremendous automation experience in API Automation testing using different test automation tools.
+    Phenomenal experience of implementing complex functional and non-functional test automation using Agile automation techniques and tools
+    Possess broad awareness of testing approaches, practices, and techniques to help design and deliver the overall testing methodology.
+    Immense experience in working and implementing Agile (SCRUM/KANBAN), TDD, BDD, ATDD methodologies.
+    Lead QA process and test automation for various digital transformation projects.
+    Good hands-on experience with Jmeter tool for performance testing.
+    Lead and implemented continuous integration and delivery (CI/CD) for the various projects
+    Mentoring delivery team members in automated building, testing and integration practise.
+    Extensive experience in creating Test Plans, Test Strategy, Test Metrics, Test Completion, and other test process documents.
+    Lead/Managed Offshore and Onshore teams for delivering test automation projects around 20 members.
+    Provided refined solutions for complex applications/requirements using different test processes and automation tools.
 
 education:
   - degree: MSc in Computer Science
